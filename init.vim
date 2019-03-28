@@ -49,5 +49,6 @@ LoadScript init/init-style.vim
 " 自定义按键
 LoadScript init/init-keymaps.vim
 
-
+" 自定义功能
+LoadScript init/init-ljq.vim
 
